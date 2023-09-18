@@ -1,7 +1,14 @@
 ---
 title: "Module 19 Challenge"
----
+--------
+### References
 
+- https://github.com/VL14
+- https://github.com/DataTell?tab=overview&from=2020-12-01&to=2020-12-31
+- https://github.com/SyedFarman
+- https://github.com/elsafig
+
+-------
 <div id="bootcamp"><img style="display: none;" src="https://static.bc-edx.com/data/dl-1-2/m19/lms/img/banner.jpg" alt="lesson banner" />
 
 In this challenge, you’ll use your knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
